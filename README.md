@@ -10,12 +10,16 @@
   1. List all the directors who directed a 'Comedy' movie in a leap year. (You need to check that
 the genre is 'Comedy’ and year is a leap year) Your query should return director name, the
 movie name, and the year.
+  
 2. List the names of all the actors who played in the movie 'Anand' (1971)
+  
 3. List all the actors who acted in a film before 1970 and in a film after 1990. (That is: < 1970
 and > 1990.)
+  
 4. List all directors who directed 10 movies or more, in descending order of the number of
 movies they directed. Return the directors' names and the number of movies each of them
 directed.
+  
 5.
 a. For each year, count the number of movies in that year that had only female actors.
 b. Now include a small change: report for each year the percentage of movies in that
